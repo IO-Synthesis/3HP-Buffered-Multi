@@ -1,0 +1,14 @@
+3HP_Multi_BOM
+
+Qty Value                     Device                    Parts
+8   100nF                     CAP0603-CAP               C3, C4, C5, C6, C7, C8, C9, C10
+2   10uF                      CAPACITOR_POL-CASE_B      C1, C2                           
+2                             DIODESOD123               D1, D2
+4                             DUALSMD                   IC1, IC2, IC3, IC4
+2                             Dual_Color_LED3MM         LED1, LED2
+2   1.2K                      RESISTOR0603              R2, R7
+2   10M                       RESISTOR0603              R1, R6
+6   51R                       RESISTOR0603              R3, R4, R5, R8, R9, R10
+1   EURO_POWER_HEADERFAT_PADS EURO_POWER_HEADERFAT_PADS SV1
+2   FB                        FB                        U$1, U$2
+8   THONKICONNOLD             THONKICONNOLD             I1, I2, X2, X3, X4, X10, X11, X12
